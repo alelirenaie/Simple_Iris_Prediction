@@ -4,7 +4,8 @@
 
 # Iris Predictor App
 
-LINK: https://github.com/alelirenaie/Simple_Iris_Prediction
+APP LINK: https://simpleirisprediction.streamlit.app/
+
 
 ## Overview
 
