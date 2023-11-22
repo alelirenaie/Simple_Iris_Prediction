@@ -4,7 +4,7 @@
 
 # Iris Predictor App
 
-APP LINK: https://simpleirisprediction.streamlit.app/
+APP LINK: [https://simpleirisprediction.streamlit.app/](https://simpleirisprediction.streamlit.app/)
 
 
 ## Overview
